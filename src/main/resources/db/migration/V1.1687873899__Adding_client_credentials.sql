@@ -1,0 +1,1 @@
+alter table public.payment_history add column client_credentials varchar;
